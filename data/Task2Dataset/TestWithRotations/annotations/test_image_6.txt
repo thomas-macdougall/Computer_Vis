@@ -1,0 +1,6 @@
+silo, (389, 323), (429, 363)
+telephone-booth, (392, 374), (437, 419)
+bus-stop, (134, 68), (166, 100)
+cemetery, (98, 360), (143, 405)
+telephone-booth, (276, 69), (321, 114)
+telephone-booth, (314, 366), (354, 406)

@@ -1,0 +1,15 @@
+/*.bat
+/data/results/
+/data/results_old/
+/data/output/
+/*.sh
+task3_test.py
+/__pycache__/
+/exports/*
+/export/*
+/__pycache__/*
+/*.csv
+/results_from_tests
+/*.npz
+playground.py
+/data/results_images/*.png
